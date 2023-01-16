@@ -115,7 +115,7 @@ body {
 /* Header */
 .header__inner {
     min-height: 300px;
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 60px;
 }
 .header__inner-top {
@@ -127,13 +127,21 @@ body {
 }
 
 .phone__numb {
-    font-family: "Fredericka the Great";
-    color: #d94f2b;
-    font-size: 25px;
-    line-height: 26px;
+    font-family: "WickedGrit";
+    color: rgb(174, 43, 43);
+    font-size: 20px;
+    line-height: 22px;
     margin-left: 5px;
     width: 100px;
     transition: color 0.5s;
+}
+.header__phone-maardu {
+    margin-bottom: 3px;
+}
+.header__phone-maardu span {
+    font-family: "WickedGrit";
+    text-transform: uppercase;
+
 }
 .phone__numb:hover {
     color: #ffc851;
@@ -180,10 +188,10 @@ body {
 .menu__list-link {
     color: #fff;
     text-transform: uppercase;
-    font-family: "PT Sans Narrow", sans-serif;
+    font-family: "WickedGrit", sans-serif;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 18px;
+    line-height: 15px;
     transition: color 0.5s;
 }
 .menu__list-link:hover {
@@ -631,10 +639,10 @@ body {
     .header__phone {
         margin-top: 40px;
     }
+  
     .phone__numb {
-        font-family: "Fredericka the Great";
-        color: #d94f2b;
         font-size: 30px;
+        
     }
     .menu {
         display: none;
