@@ -127,7 +127,9 @@ body {
 }
 
 .phone__numb {
-    font-family: "WickedGrit";
+    /* font-family: "WickedGrit"; */
+    font-family: 'Wicked Grit', sans-serif;
+                                                
     color: rgb(174, 43, 43);
     font-size: 20px;
     line-height: 22px;
@@ -139,7 +141,9 @@ body {
     margin-bottom: 3px;
 }
 .header__phone-maardu span {
-    font-family: "WickedGrit";
+    /* font-family: "WickedGrit"; */
+    font-family: 'Wicked Grit', sans-serif;
+                                                
     text-transform: uppercase;
 
 }
@@ -188,7 +192,9 @@ body {
 .menu__list-link {
     color: #fff;
     text-transform: uppercase;
-    font-family: "WickedGrit", sans-serif;
+    font-family: 'Wicked Grit', sans-serif;
+                                                
+    /* font-family: "WickedGrit", sans-serif; */
     font-weight: 400;
     font-size: 18px;
     line-height: 15px;
@@ -213,7 +219,8 @@ body {
 
 .top__title {
     /* font-family: "PT Sans Narrow", sans-serif; */
-    font-family: "GoldenRanger", sans-serif ;
+                                        
+    font-family: "Golden Ranger", "GoldenRanger", sans-serif ;
     font-weight: 400;
     font-size: 160px;
     line-height: 60px;
@@ -223,14 +230,19 @@ body {
     display: inline-block;
 }
 .top__text {
-    font-family: "WickedGrit", sans-serif;
+
+    /* font-family: "WickedGrit", sans-serif; */
+    font-family: 'Wicked Grit', sans-serif;
+                                                
     font-size: 45px;
     line-height: 40px;
     margin-top: 40px;
 }
 
 .top__text-small {
-    font-family: "WickedGrit", sans-serif;
+    /* font-family: "WickedGrit", sans-serif; */
+    font-family: 'Wicked Grit', sans-serif;
+                                                
     font-size: 15px;
     line-height: 40px;
 }
